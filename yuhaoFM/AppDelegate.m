@@ -22,7 +22,7 @@
 
 
 - (void)applicationWillResignActive:(UIApplication *)application {
-    
+    //一起战斗
 }
 
 
