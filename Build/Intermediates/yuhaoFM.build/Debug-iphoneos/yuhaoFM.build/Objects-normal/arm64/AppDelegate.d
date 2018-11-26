@@ -1,2 +1,2 @@
-dependencies: /Users/yuhao/Desktop/yuhaoFM/yuhaoFM/yuhaoFM/AppDelegate.m \
-  /Users/yuhao/Desktop/yuhaoFM/yuhaoFM/yuhaoFM/AppDelegate.h
+dependencies: /Users/yuhao/Desktop/APP/yuhaoFM/yuhaoFM/AppDelegate.m \
+  /Users/yuhao/Desktop/APP/yuhaoFM/yuhaoFM/AppDelegate.h
